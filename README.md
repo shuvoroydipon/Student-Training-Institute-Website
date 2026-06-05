@@ -138,5 +138,5 @@ Feel free to fork this repository and submit pull requests.
 </p>
 
 <p align="center">
-  Made with ❤️ by Tech Skills Academy
+  Made with ❤️ by Shovo Roy Dipon
 </p>
